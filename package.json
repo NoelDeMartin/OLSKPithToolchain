@@ -3,7 +3,7 @@
   "dependencies": {
     "OLSKExpress": "olsk/OLSKExpress",
     "OLSKDisk": "olsk/OLSKDisk",
-    "OLSKSpec": "olsk/OLSKSpec",
+    "OLSKSpec": "NoelDeMartin/OLSKSpec#ci-tests",
     "OLSKHotfix": "olsk/OLSKHotfix",
     "OLSKBundle": "olsk/OLSKBundle",
 
